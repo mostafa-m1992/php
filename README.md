@@ -50,4 +50,33 @@ Object Oriented Programming <br> <br>
 
 DataBase <br> <br> 
 w3schools: <br> 
-44: 
+44: connection <br> 
+45: create database <br> 
+46: create table <br> 
+47: insert stmt <br> 
+48: insert multiple records / inTransaction <br> 
+49: prepare stmt and bound param <br> 
+50: select statement <br> 
+51: where clause <br> 
+52: order by clause <br> 
+53: delete stmt <br> 
+54: update stmt <br> 
+55: about limit clause <br> <br> 
+
+tutorialRepublic<br> 
+56: create database <br> 
+57: create table query <br> 
+58: insert query <br> 
+59: insert multiple rows <br> 
+60: insert from an HTML form <br> 
+61: prepare stmt <br> 
+62: insert from an HTML form in another way <br> 
+63: select / about fetch() / rowCount() / query() <br> 
+64: where clause <br> 
+65: limitation <br> 
+66: order by <br> 
+67: updating in another way <br> 
+68: deleting in another way <br> <br> 
+php.net <br> 
+69: persistent connection <br> 
+70: 
