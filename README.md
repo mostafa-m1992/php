@@ -79,4 +79,24 @@ tutorialRepublic<br>
 68: deleting in another way <br> <br> 
 php.net <br> 
 69: persistent connection <br> 
-70: 
+70: create table registery <br> 
+71: insert / prepare / ? <br> 
+72: fetching / prepare <br> 
+73: PDO::__construct() <br> 
+74: PDO::exec() <br> 
+75: PDO::getAvailableDrivers() <br> 
+76: quote() <br> 
+77: create table fruit <br> 
+78: insert <br> 
+79: PDO::statement::bindColumn() <br> 
+80: PDO::statement::columnCount() <br> 
+81: PDO::debugDumpParams() / errorCode() / errorInfo() <br> 
+82: execute() <br> 
+83: fetch() <br> 
+84: ... <br> 
+85: ... <br> 
+86: fetchAll() <br> 
+87: fetchColumn() <br> 
+88: fetchObject() <br> 
+89: getColumnMeta() <br> 
+90: setFetchMode()
