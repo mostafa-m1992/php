@@ -99,4 +99,22 @@ php.net <br>
 87: fetchColumn() <br> 
 88: fetchObject() <br> 
 89: getColumnMeta() <br> 
-90: setFetchMode()
+90: setFetchMode() <br> <br> 
+
+practices: <br> <br> 
+
+1: charges <br> 
+2: about tables <br> 
+3: form <br> 
+4: complete form <br> 
+5: files <br> 
+6: exception <br> 
+7: calorie calculator <br> 
+8: simple calculator <br> 
+9: calculator <br> 
+10: answering question <br> 
+11: ... <br> 
+12: ... <br> 
+13: ... <br> 
+14: ... <br> 
+15-20: sending data from the form to the database
